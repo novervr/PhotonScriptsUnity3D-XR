@@ -12,7 +12,7 @@ using UnityEngine.XR;
 
 
 
-public class Networkplayer2 : MonoBehaviour
+public class NetworkPlayer2 : MonoBehaviour
 
 {
 
