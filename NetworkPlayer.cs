@@ -10,9 +10,9 @@ using Photon.Pun;
 
 using UnityEngine.XR;
 
+namespace Photon.UnityXRPlayer
 
-
-public class NetworkPlayer2 : MonoBehaviour
+public class NetworkPlayer : MonoBehaviour
 
 {
 
@@ -32,7 +32,7 @@ public class NetworkPlayer2 : MonoBehaviour
 
     private Transform rightHandRig;
 
-    //public Transform centereye;
+    public Transform centereye;
 
 
 
