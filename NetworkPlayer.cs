@@ -1,16 +1,9 @@
 using System.Collections;
-
 using System.Collections.Generic;
-
 using UnityEngine;
-
 using UnityEngine.XR.Interaction.Toolkit;
-
 using Photon.Pun;
-
 using UnityEngine.XR;
-
-namespace Photon.UnityXRPlayer
 
 public class NetworkPlayer : MonoBehaviour
 
