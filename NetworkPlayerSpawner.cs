@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 
-namespace Photon.UnityXRPlayer
-
 public class NetworkPlayerSpawner : MonoBehaviourPunCallbacks
 {
 
