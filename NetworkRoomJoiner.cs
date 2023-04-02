@@ -4,8 +4,6 @@ using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
 
-namespace Photon.UnityXRPlayer
-
 public class NetworkRoomJoiner : MonoBehaviourPunCallbacks
 {
     // Start is called before the first frame update
