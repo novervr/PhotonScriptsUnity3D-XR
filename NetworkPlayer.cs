@@ -39,11 +39,11 @@ public class NetworkPlayer : MonoBehaviour
 
         XRRig rig = FindObjectOfType<XRRig>();
 
-        headRig = rig.transform.Find("Camera Offset/Main Camera");
+        headRig = rig.transform.Find("GorillaPlayer/Main Camera");
 
-        leftHandRig = rig.transform.Find("Camera Offset/LeftHand Controller");
+        leftHandRig = rig.transform.Find("GorillaPlayer/LeftHand Controller");
 
-        rightHandRig = rig.transform.Find("Camera Offset/RightHand Controller");
+        rightHandRig = rig.transform.Find("GorillaPlayer/RightHand Controller");
 
     }
 
