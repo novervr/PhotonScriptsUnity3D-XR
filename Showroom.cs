@@ -11,6 +11,4 @@ public class Showroom : MonoBehaviour
         
         
         void Start();
-        
-        void OnTriggerEnter(Collider other)
-         if 
+        Debug.Log("This script is a big WIP")
