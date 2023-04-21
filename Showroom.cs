@@ -11,4 +11,4 @@ public class Showroom : MonoBehaviour
         
         
         void Start();
-        Debug.Log("This script is a big WIP")
+        Debug.LogWarning("This script is a big WIP")
